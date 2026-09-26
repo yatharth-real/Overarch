@@ -145,10 +145,10 @@ The framework governing what Overarch is allowed to do without asking first.
 </details>
 
 <details>
-<summary><b>CCSS</b> — Creative Customs Smart Response Quality Control</summary>
+<summary><b>CCSS</b> — Creative Customs Smart Skill</summary>
 <br>
 
-A quality layer that checks Overarch's own output for correctness, relevance, reasoning quality, completeness, practical usefulness, and communication efficiency before it's surfaced to you.
+An orchestration layer that checks Overarch's own output for correctness, relevance, reasoning quality, completeness, practical usefulness, and communication efficiency before it's surfaced to you.
 
 </details>
 
