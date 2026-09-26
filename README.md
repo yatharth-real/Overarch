@@ -176,24 +176,9 @@ shows every available command, categorized by session control, configuration, sk
 
 Overarch routes to models through a configurable provider setup. You can point it at your own supported provider/model configuration instead.
 
-<br>
-
-## Development
-
-```bash
-git clone <repo-url>
-cd overarch
-npm install     # install dependencies
-npm run build   # build
-npm run dev     # run in development
-npm test        # run the test suite
-```
-
-<br>
-
 ## Project
 
-Overarch is built by **Yatharth Roy** under **The Thursday AI Company**, New Delhi.
+Overarch is built by **Yatharth Roy** under **The Thursday AI Company** of New Delhi.
 
 ## License
 
