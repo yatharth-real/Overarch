@@ -174,7 +174,7 @@ shows every available command, categorized by session control, configuration, sk
 
 ## Models
 
-Overarch routes to models through a configurable provider setup. By default it uses OpenRouter's automatic routing; you can point it at your own supported provider/model configuration instead.
+Overarch routes to models through a configurable provider setup. You can point it at your own supported provider/model configuration instead.
 
 <br>
 
